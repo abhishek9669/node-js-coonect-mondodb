@@ -1,0 +1,15 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "hello my name is abhishek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0",
+    "nodemon": "^2.0.16"
+  }
+}
